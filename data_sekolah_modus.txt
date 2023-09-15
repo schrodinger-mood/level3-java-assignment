@@ -1,0 +1,7 @@
+Nilai         		|  Frekuensi
+Kurang dari 6 		|  1
+6              		|  2
+7              		|  62
+8              		|  42
+9              		|  50
+10              		|  41
